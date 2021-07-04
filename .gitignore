@@ -3,5 +3,5 @@
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 venv
-_pycache_/
-utils/__pycache__/
+_pycache_/*
+utils/__pycache__/*
