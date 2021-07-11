@@ -8,9 +8,9 @@ A telegram bot for tracking vaccination centers and deployment on AWS using Elas
 
 ### Installation
 1. Setup the following environment variables:
- TOKEN = Telegram bot token received from BotFather
- PORT = Listen port for the web server, default is 3298
- URL = Https URL for setting up webhook
+ TOKEN = Telegram bot token received from BotFather\n
+ PORT = Listen port for the web server, default is 3298\n
+ URL = Https URL for setting up webhook\n
 
 2. Checkout this project and install dependencies by running following command in the project directory
 	pip install -r requirements.txt
