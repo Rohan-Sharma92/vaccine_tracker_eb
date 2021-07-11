@@ -1,8 +1,8 @@
-# vaccine_tracker_eb
+# Vaccine Tracker
 A telegram bot for tracking vaccination centers and deployment on AWS using Elastic Beanstalk
 
-##Installation and Deployment
-###Prerequisites
+## Installation and Deployment
+### Prerequisites
 1. Bot Token is already available after creating bot using BotFather
 2. Installed python version is atleast 3.7 and pip is installed.
 
