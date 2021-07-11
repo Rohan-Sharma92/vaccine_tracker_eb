@@ -1,4 +1,4 @@
-# Vaccine Tracker
+# Vaccine Tracker Bot
 A telegram bot for tracking vaccination centers and deployment on AWS using Elastic Beanstalk
 
 ## Installation and Deployment
